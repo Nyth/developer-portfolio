@@ -62,7 +62,16 @@ h2{
 #baby-web-developer{
     border-left: 7px solid blue ;
 }
+#experience{
+    margin-left: 10%;
+}
 
 footer p{
     text-align: center;
+}
+.dream{
+    padding-bottom: 10px;
+}
+.start{
+    padding-bottom:10px;
 }
